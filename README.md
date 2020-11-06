@@ -1,3 +1,2 @@
 # SimpleWeatherApp
-
-![](SimpleWeatherApp/a.png)
+![](Jimmol-Singh/SimpleWeatherApp/a.png)
